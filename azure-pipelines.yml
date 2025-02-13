@@ -5,7 +5,7 @@ trigger:
   - main
 
 pool:
-  name: Self-Hosted
+  name: Agent1
 
 steps:
 
